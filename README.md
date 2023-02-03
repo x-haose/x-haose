@@ -47,6 +47,7 @@
 [![sanic-api](https://github-readme-stats.vercel.app/api/pin/?username=x-haose&repo=sanic-api&theme=buefy)](https://github.com/x-haose/sanic-api)
 [![hssp](https://github-readme-stats.vercel.app/api/pin/?username=x-haose&repo=hssp&theme=buefy)](https://github.com/x-haose/hssp)
 [![hs-files-dl](https://github-readme-stats.vercel.app/api/pin/?username=x-haose&repo=hs-files-dl&theme=buefy)](https://github.com/x-haose/hs-files-dl)
+[![pg_dump](https://github-readme-stats.vercel.app/api/pin/?username=x-haose&repo=pg_dump&theme=buefy)](https://github.com/x-haose/pg_dump)
 
 
 <br/>  
